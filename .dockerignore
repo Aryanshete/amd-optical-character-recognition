@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+.env
+input
+output
+benchmark_outputs
+.venv
+venv
+README.md
